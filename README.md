@@ -119,13 +119,13 @@ The implementation demonstrates:
 - Scalable performance across different terminal sizes
 - Real-time adaptability to dynamic conditions
 
-## Future Work
+<!--## Future Work
 
 Based on the research paper, potential extensions include:
 - Incorporating equipment failures and uncertainties
 - Adding energy consumption and carbon emission objectives
 - Modeling acceleration/deceleration phases for equipment
-- Scaling to larger terminal configurations
+- Scaling to larger terminal configurations-->
 
 ## 👨‍💻 Author & Credits
 
